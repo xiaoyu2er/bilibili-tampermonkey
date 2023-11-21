@@ -4,11 +4,9 @@
 // @version      0.0.1
 // @description  Bilibili Tampermonkey script for fun and to make Bilibili great again!
 // @author       xiaoyu2er
-// @grant GM_setValue
 // @match https://t.bilibili.com/*
 // @grant unsafeWindow
-// @grant GM_xmlhttpRequest
-// @icon  https://www.bilibili.com/favicon.ico
+// @icon  https://github.com/xiaoyu2er/bilibili-tampermonkey/assets/10123916/27a951a4-bfd6-42e3-b3ea-d39a6695353f
 // @downloadURL  https://github.com/xiaoyu2er/bilibili-tampermonkey/raw/master/script.user.js
 // @updateURL    https://github.com/xiaoyu2er/bilibili-tampermonkey/raw/master/script.user.js
 // @run-at document-start
